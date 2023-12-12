@@ -1,7 +1,7 @@
 // LoginScreen.js
 
 import React, { useState } from 'react';
-import './LoginScreen.css';
+import './loginScreen.css';
 
 const LoginScreen = () => {
   const [username, setUsername] = useState('');
