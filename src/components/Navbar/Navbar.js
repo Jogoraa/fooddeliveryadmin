@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <div className="navbar">
             <div className="nav-left">
-                <h1>Foodie</h1>
+                <h1>Hu-Eats</h1>
             </div>
             <div className="nav-right">
                 <Link to='/orders' style={{ textDecoration: 'none' }}>

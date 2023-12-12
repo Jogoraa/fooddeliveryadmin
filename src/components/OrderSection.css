@@ -128,3 +128,7 @@
     cursor: pointer;
     margin: 0px 10px;
 }
+.nav-link:hover {
+    text-decoration: underline;
+    color: #ffd700; /* Change the color on hover */
+  }
